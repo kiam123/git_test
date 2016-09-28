@@ -5,6 +5,8 @@ public Test{
 }
 
 		System.out.println("123");
+asdas
+asd
 	}
 
 
